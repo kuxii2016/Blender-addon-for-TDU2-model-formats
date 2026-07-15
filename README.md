@@ -23,7 +23,7 @@ Blender addon for importing TDU2 (Test Drive Unlimited 2) model files
    ```
 2. Enable in Blender: Edit > Preferences > Add-ons > "Import-Export: TDU2 Scene"
 
-Requires Blender 3.3+ and Python 3.7+.
+Requires Blender 3.3 - 4.0 and Python 3.7+.
 
 ## Usage
 
